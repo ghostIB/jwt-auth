@@ -7,3 +7,5 @@ jwt-auth
 # Go
 *.exe
 *.out
+
+.DS_Store
